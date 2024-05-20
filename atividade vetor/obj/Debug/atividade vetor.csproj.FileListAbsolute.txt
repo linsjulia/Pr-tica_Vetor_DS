@@ -1,0 +1,7 @@
+E:\Dowloads\atividade vetor\atividade vetor\bin\Debug\atividade vetor.exe.config
+E:\Dowloads\atividade vetor\atividade vetor\bin\Debug\atividade vetor.exe
+E:\Dowloads\atividade vetor\atividade vetor\bin\Debug\atividade vetor.pdb
+E:\Dowloads\atividade vetor\atividade vetor\obj\Debug\atividade vetor.csproj.AssemblyReference.cache
+E:\Dowloads\atividade vetor\atividade vetor\obj\Debug\atividade vetor.csproj.CoreCompileInputs.cache
+E:\Dowloads\atividade vetor\atividade vetor\obj\Debug\atividade vetor.exe
+E:\Dowloads\atividade vetor\atividade vetor\obj\Debug\atividade vetor.pdb
